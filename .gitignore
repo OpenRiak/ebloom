@@ -1,5 +1,6 @@
 .eunit/*
 priv/*
 *.o
+c_src/*.d
 *.beam
 _build
