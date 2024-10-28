@@ -8,7 +8,7 @@
 
 ## Quick Start
 
-You must have [Erlang/OTP 22](http://erlang.org/download.html) or later and a GNU-style build system to compile and run =ebloom=.
+You must have [Erlang/OTP 22](http://erlang.org/download.html) or later and a GNU-style build system to compile and run `ebloom`.
 
 ```
 git clone git://github.com/basho/ebloom.git
