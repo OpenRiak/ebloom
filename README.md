@@ -2,7 +2,7 @@
 
 ## Overview
 
-![ebloom OpenRiak Status](https://github.com/OpenRiak/ebloom/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+![ebloom OpenRiak Status](https://github.com/OpenRiak/ebloom/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 `ebloom` is a NIF wrapper around a basic bloom filter.
 
